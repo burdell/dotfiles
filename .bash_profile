@@ -42,9 +42,4 @@ alias gcb="git checkout -b"
 alias gs="git status"
 alias gmm="git merge master"
 
-alias cm="open http://localhost:3000"
-alias cv="open http://development.gatherhere.com:5001/app"
-alias ov="code ~/Development/gather-1"
-alias om="code ~/Development/mobile-2"
-
 alias ys="yarn start"
